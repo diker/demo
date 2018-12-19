@@ -1,0 +1,10 @@
+.idea
+*.iml
+target
+.project
+.classpath
+.settings
+.metadata
+RemoteSystemsTempFiles
+bin
+build
