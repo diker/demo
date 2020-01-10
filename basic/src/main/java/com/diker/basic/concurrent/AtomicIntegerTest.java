@@ -2,6 +2,9 @@ package com.diker.basic.concurrent;
 
 import java.util.concurrent.atomic.AtomicInteger;
 
+/**
+ * Integer原子并发操作测试
+ */
 public class AtomicIntegerTest {
 
     public static void main(String[] args) {
