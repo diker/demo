@@ -9,7 +9,7 @@ import java.util.concurrent.ThreadPoolExecutor;
 import java.util.concurrent.TimeUnit;
 
 /**
- * 线程池测试
+ * 线程池测试并发测试
  * @author diker
  * @since 2019/2/23
  */
